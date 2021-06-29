@@ -5,5 +5,4 @@ TCGA is one of the few databases that allows scientists to access genomic data a
 
 My mentor Dr. Sijung yun recommended a more reproducible, although a bit convoluted way to achieve this. This includes converting the MAF file to an annovar input (avinput) as an intermediate step and then using annovar to get a VCF file. 
 
-The python script can be found at cbueffers github page. https://github.com/cbrueffer/misc_bioinf/blob/master/maf2annovar.py
 
